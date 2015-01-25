@@ -9,5 +9,4 @@ Angular local-storage service.
 This module exposes a 'LocalStorage' factory, which is an API for HTML5 localStorage.
 
 ### Todo
-Finish karma tests for methods get, remove, and clear.
-Finsh usage in readme.md
+Finsh usage and API in readme.md
